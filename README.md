@@ -18,7 +18,7 @@ O Objetivo foi recriar uma interface do site da Netflix usando tecnologias simpl
 
 ### Autor
 
-LinkedIn:https://www.linkedin.com/in/alan-fernandes-03096317b/
+LinkedIn: https://www.linkedin.com/in/alan-fernandes-03096317b/
 
 Instagram: https://www.instagram.com/_alanfernds/
 
