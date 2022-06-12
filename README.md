@@ -4,6 +4,7 @@ Esse Projeto foi desenvolvido para colocar em pr´taica os conhecimentos adquiri
 
 O Objetivo foi recriar uma interface do site da Netflix usando tecnologias simples como HTML5, CSS5 e JavaScript, além de englobar os conceitos de: como estruturar um layout, técnicas de CSS3 com contêineres e variáveis, como posicionar os elementos com Flexbox e como usar plugins JQuery.
 
+link:https://allanfernds.github.io/clone-netflix/
 
 ### Tecnologias utilizadas
 * Java Script
